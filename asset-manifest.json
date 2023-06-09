@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/card-reader/static/css/main.1273ca8d.css",
+    "main.js": "/card-reader/static/js/main.0d45e06c.js",
+    "static/js/787.159cf3a1.chunk.js": "/card-reader/static/js/787.159cf3a1.chunk.js",
+    "index.html": "/card-reader/index.html",
+    "main.1273ca8d.css.map": "/card-reader/static/css/main.1273ca8d.css.map",
+    "main.0d45e06c.js.map": "/card-reader/static/js/main.0d45e06c.js.map",
+    "787.159cf3a1.chunk.js.map": "/card-reader/static/js/787.159cf3a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1273ca8d.css",
+    "static/js/main.0d45e06c.js"
+  ]
+}
